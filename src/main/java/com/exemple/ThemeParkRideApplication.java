@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Bean;
 import com.exemple.model.ThemeParkRide;
 import com.exemple.repository.ThemeParkRideRepository;
 
+spongebobestlemeilleurdessinanime>1
 @SpringBootApplication
 public class ThemeParkRideApplication {
 
